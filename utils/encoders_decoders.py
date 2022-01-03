@@ -1,3 +1,8 @@
+'''
+Code from @author: optas
+
+'''
+
 import tensorflow as tf
 import tflearn
 import numpy as np
